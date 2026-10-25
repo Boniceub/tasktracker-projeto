@@ -1,0 +1,6 @@
+tasktracker-1  | TaskTracker
+tasktracker-1  | 
+tasktracker-1  | 1. Cadastrar nova tarefa
+tasktracker-1  | 2. Visualizar tarefas cadastradas
+tasktracker-1  | 3. Sair da aplicação
+

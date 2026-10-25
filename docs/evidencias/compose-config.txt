@@ -1,0 +1,15 @@
+name: tasktracker-projeto
+services:
+  tasktracker:
+    image: tasktracker:local
+    networks:
+      default: null
+    build:
+      context: C:\Users\Particular\Documents\Codex\2026-10-23\referenced-chatgpt-conversation-this-is-an-2\outputs\tasktracker-projeto
+      dockerfile: Dockerfile
+    stdin_open: true
+    tty: true
+networks:
+  default:
+    name: tasktracker-projeto_default
+

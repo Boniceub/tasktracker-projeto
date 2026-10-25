@@ -1,0 +1,14 @@
+TaskTracker
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Nenhuma tarefa cadastrada no momento.
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Até logo!
+
+ Container tasktracker-projeto-tasktracker-run-1a478fce4dc3 Creating 
+ Container tasktracker-projeto-tasktracker-run-1a478fce4dc3 Created 

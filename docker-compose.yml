@@ -1,0 +1,6 @@
+services:
+  tasktracker:
+    build: .
+    image: tasktracker:local
+    stdin_open: true
+    tty: true

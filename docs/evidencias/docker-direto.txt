@@ -1,0 +1,52 @@
+COMANDO: docker run --rm -i tasktracker:local
+EXIT: 0
+STDOUT:
+TaskTracker
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Nenhuma tarefa cadastrada no momento.
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Opção inválida. Escolha 1, 2 ou 3.
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Título: O título é obrigatório e não pode conter apenas espaços.
+Título: O título é obrigatório e não pode conter apenas espaços.
+Título: Descrição: Prioridade (Alta/Média/Baixa): Prioridade inválida. Digite Alta, Média (ou Media) ou Baixa.
+Prioridade (Alta/Média/Baixa): Data limite (texto livre ou DD/MM/AAAA): Tarefa cadastrada com sucesso!
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Título: Descrição: Prioridade (Alta/Média/Baixa): Data limite (texto livre ou DD/MM/AAAA): Tarefa cadastrada com sucesso!
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: 
+--- Tarefa 1 ---
+Título: Revisar Docker
+Descrição: Validar conteiner
+Prioridade: Média
+Data limite: 23/10/2026
+Status: Pendente
+
+--- Tarefa 2 ---
+Título: Segunda tarefa
+Descrição: (não informada)
+Prioridade: Baixa
+Data limite: (não informada)
+Status: Pendente
+
+1. Cadastrar nova tarefa
+2. Visualizar tarefas cadastradas
+3. Sair da aplicação
+Escolha uma opção: Até logo!
+
+STDERR:
